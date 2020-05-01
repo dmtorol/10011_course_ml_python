@@ -8,6 +8,7 @@ Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de
 
 ### Moocs:
 - Coursera - Data Science by IBM
+- Coursera - Machine Learning by Stanford
 - Udemy - Curso Completo de Machine Learning: Data Science en Python
 
 ### Blogs:
