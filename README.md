@@ -6,11 +6,11 @@ Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de
 
 ## Bibliografía:
 
-Moocs:
-Coursera - Data Science by IBM
-Udemy - 
+### Moocs:
+- Coursera - Data Science by IBM
+- Udemy - Curso Completo de Machine Learning: Data Science en Python
 
-Blogs:
-Towards Data Science
+### Blogs:
+- Towards Data Science
 
-Libros:
+### Libros:
