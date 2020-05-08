@@ -24,6 +24,6 @@ Podrás encontrar los ficheros que se utilizan en los notebooks en la carperta "
 
 ### 3.3. Libros:
 
-- Data Science from Scractch. ISBN: 978-1-491-90142-7
+- Data Science from Scratch. ISBN: 978-1-491-90142-7
 - Estadística Básica para Estudiantes de Ciencia. ISBN: 978-84-691-8981-8
 - An Introductio to Statistical Learning with Applications in R. ISBN: 978-1-4614-7138-7
