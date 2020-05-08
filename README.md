@@ -1,28 +1,28 @@
 # apuntes-python
 
-## Intro
+## 1. Intro
 
 En este repositorio podrás encontrar los ficheros y notebooks que elaboro para ir aprendiendo. Suelen contener una parte teórica introductoria, y luego otra práctica donde se va combinando texto y código.
 
 Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de lecturas en blogs y libros relacionados con el ámbito del data science.
 
 
-## Datasets
+## 2. Datasets
 
 Podrás encontrar los ficheros que se utilizan en los notebooks en la carperta "datasets" de este mismo repositorio.
 
 
-## Bibliografía:
+## 3. Bibliografía:
 
-### Moocs:
+### 3.1. Moocs:
 - Coursera - Data Science by IBM
 - Coursera - Machine Learning by Stanford
 - Udemy - Curso Completo de Machine Learning: Data Science en Python
 
-### Blogs:
+### 3.2. Blogs:
 - Towards Data Science
 
-### Libros:
+### 3.3. Libros:
 
 - Data Science from Scractch. ISBN: 978-1-491-90142-7
 - Estadística Básica para Estudiantes de Ciencia. ISBN: 978-84-691-8981-8
