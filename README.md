@@ -4,7 +4,7 @@
 
 En este repositorio podrás encontrar los ficheros y notebooks que elaboro para ir aprendiendo. Suelen contener una parte teórica introductoria, y luego otra práctica donde se va combinando texto y código.
 
-Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de lecturas en blogs y libros relacionados con el ámbito del data science.
+Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de lecturas en blogs y libros relacionados con el ámbito del machine learning y data science.
 
 
 ## 2. Datasets
