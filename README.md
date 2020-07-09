@@ -21,6 +21,7 @@ Podrás encontrar los ficheros que se utilizan en los notebooks en la carperta "
 
 ### 3.2. Blogs:
 - Towards Data Science
+- https://www.cienciadedatos.net/
 
 ### 3.3. Libros:
 
