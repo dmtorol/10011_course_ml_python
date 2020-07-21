@@ -2,14 +2,14 @@
 
 ## 1. Intro
 
-En este repositorio podrás encontrar los ficheros y notebooks que elaboro para ir aprendiendo machine learning. Suelen contener una parte teórica introductoria, y luego otra práctica donde se va combinando texto y código.
+En este repositorio podrás encontrar los ficheros y notebooks que elaboro para ir aprendiendo machine learning. Suelen contener una parte teórica introductoria, y luego otra práctica donde se va alternando código con texto de carácter explicativo.
 
 Estos apuntes son fruto de los diferentes cursos mooc's que voy realizando, y de lecturas en blogs y libros relacionados con el ámbito del machine learning y data science.
 
 
 ## 2. Datasets
 
-Podrás encontrar los ficheros que se utilizan en los notebooks en la carperta "datasets" de este mismo repositorio.
+Podrás encontrar los ficheros que se utilizan en los notebooks en la carpeta "datasets" de este mismo repositorio.
 
 
 ## 3. Bibliografía:
