@@ -1,4 +1,4 @@
-# apuntes-python
+# apuntes_ml_python
 
 ## 1. Intro
 
