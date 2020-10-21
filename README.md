@@ -28,3 +28,7 @@ Podrás encontrar los ficheros que se utilizan en los notebooks en la carpeta "d
 - Data Science from Scratch. ISBN: 978-1-491-90142-7
 - Estadística Básica para Estudiantes de Ciencia. ISBN: 978-84-691-8981-8
 - An Introductio to Statistical Learning with Applications in R. ISBN: 978-1-4614-7138-7
+
+## 4. Disclaimer
+
+Aquellas imágenes o vídeos que no me pertenezcan se utilizarán con fines divulgativos, nunca con ánimo de lucro, y serán adecuadamente citados en el post correspondiente mediante un apartado bibliográfico.
